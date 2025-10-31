@@ -1,6 +1,6 @@
 {
   "games": [
-    { "id": 3405340, "name": "Megabonk", "gameVersion": "20457193", "playPath": "Megabonk.exe" },
+    { "id": 3405340, "name": "Megabonk", "gameVersion": "20457192", "playPath": "Megabonk.exe" },
     { "id": 2879840, "name": "Escape Simulator 2", "gameVersion": "20591073", "playPath": "Escape Simulator 2.exe" },
     { "id": 2300320, "name": "Farming Simulator 25", "gameVersion": "20496833", "playPath": "x64/FarmingSimulator2025Game.exe" },
     { "id": 3949040, "name": "RV There Yet", "gameVersion": "20620365", "playPath": "Ride.exe" }
